@@ -12,8 +12,8 @@ public class holamundo {
 
         System.out.print("Introduce tu nombre: ");
         String nombre = teclado.nextLine();
-
-        System.out.println("Bienvenido, " + nombre + "! Saludos desde main.");
+        
+        System.out.println("Hola, " + nombre + "! Saludo combinado de main y conflicto-test.");
         System.out.println("Bienvenido a la rama feature-test");
         System.out.println("expancion de dominio: mundo eclipse");
         
